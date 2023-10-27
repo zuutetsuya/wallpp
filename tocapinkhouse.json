@@ -1,0 +1,52 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "IRON",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"1",
+      "on_off_native_listview":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "username":"syaifulyunus",
+      "dasboard_name":"boca-pink",
+      "dasboard_name2":"boca-badroom",
+      "dasboard_name3":"boca-chrismast",
+      "dasboard_name4":"boca-halloween",
+      "dasboard_name5":"boca-room",
+      "dasboard_name6":"boca-ideas",
+      "dasboard_name7":"null",
+      "dasboard_name8":"null",
+      "dasboard_name9":"null",
+      "dasboard_name10":"null"
+    }
+  ],
+    "More":
+  [
+    
+
+  ],
+  "Shop":
+  [
+    
+  ]
+}
